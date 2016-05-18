@@ -2,7 +2,7 @@
 A simple Java FileSystem
 
 ### Project Infos
-* **Date:** Semester 1 - 2014/2016 (Dec 2014)
+* **Date:** Semester 1 - 2014/2015 (Dec 2014)
 * **Topic:** A Java FileSystem (named Poof)
 * **Course:** Programação com Objectos (PO) | Object-Oriented Programming
 * **Course Link:** https://fenix.tecnico.ulisboa.pt/disciplinas/PO17/2014-2015/1-semestre
